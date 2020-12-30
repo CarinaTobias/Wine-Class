@@ -50,3 +50,7 @@ df.isna().sum()
 df.nunique()
 
 df.dtypes
+
+profile = ProfileReport(df, title='Profiling Wine',html={'style':{'full_width':True}})
+
+profile.to_notebook_iframe()
