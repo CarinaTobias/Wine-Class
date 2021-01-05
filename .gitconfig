@@ -1,0 +1,8 @@
+[user]
+	name = Carina Tobias
+	email = carina.sortino@gmail.com
+	mail = carina.sortino@gmail.com
+[gui]
+	recentrepo = C:/Users/Carina/git
+[core]
+	editor = 'C:\\Users\\Carina\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Visual Studio Code.exe' -multiInst -nosession
